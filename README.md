@@ -20,7 +20,17 @@ Each of these models offers a different level of complexity and learning capacit
    * Installation
    * Dataset
 * Project Pipeline
-* License
+   * Data Preprocessing
+   * Model Development
+   * Training
+   * Evaluation and Testing
+   * Text Generation
+* Future Work
+   *  In-depth Research
+   *  Exploring Other Datasets
+   *  Cross-lingual NLP
+   *  Hyper-parameter Tuning and Pre-trained Models
+   *  Reviewing Performance Enhancement Techniques
 * Contact
 * Acknowledgements
 
@@ -95,9 +105,15 @@ This project aims to enhance the accuracy of Amharic text generation, and there 
 
 
 ## **CONTACT** 📧
-Linkedin: https://www.linkedin.com/in/bezawit-tekeba/
+Linkedin: 
 
-Project Link: https://github.com/quinbez/Large_Language_Models_For_Low_Resource_Languages
+https://www.linkedin.com/in/bezawit-tekeba/
+
+https://www.linkedin.com/in/biruk-abere-ambaw-479aba215/
+
+Project Link: 
+
+https://github.com/quinbez/Large_Language_Models_For_Low_Resource_Languages
 
 ## **ACKNOWLEDGEMENTS** 🙏
 1. Andrej Karpathy - Chief Scientist at OpenAI and a leading figure in the field of deep learning and computer vision.
