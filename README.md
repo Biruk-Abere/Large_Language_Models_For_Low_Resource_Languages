@@ -55,7 +55,7 @@ Each of these models offers a different level of complexity and learning capacit
     
 ### **Installation**
 
-1. Clone the repository: 
+Clone the repository: 
 https://github.com/quinbez/Large_Language_Models_For_Low_Resource_Languages.git
 
 ### **Dataset**
@@ -85,14 +85,11 @@ https://github.com/leobitz/amharic_word_embeddings
 Distributed under the MIT License. See LICENSE for more information.
 
 ## **CONTACT**
-Your Name - @your_twitter
-Project Link: https://github.com/yourusername/amharic-text-generation
+Linkedin: https://www.linkedin.com/in/bezawit-tekeba/
+
+Project Link: https://github.com/quinbez/Large_Language_Models_For_Low_Resource_Languages
 
 ## **ACKNOWLEDGEMENTS**
-[]
-[]
-[]
-
-
-
-
+1. Andrej Karpathy - Chief Scientist at OpenAI and a leading figure in the field of deep learning and computer vision.
+2. Andrew Ng - Co-founder of Coursera, former Chief Scientist at Baidu, and renowned AI researcher and educator.
+3. Christopher Manning - Professor of Computer Science and Linguistics at Stanford University, specializing in natural language processing and computational linguistics.
