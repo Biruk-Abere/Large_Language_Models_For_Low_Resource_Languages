@@ -111,7 +111,7 @@ This project aims to enhance the accuracy of Amharic text generation, and there 
 
 ### 📂 **Project Link** 
 
-https://github.com/quinbez/Large_Language_Models_For_Low_Resource_Languages
+https://github.com/quinbez/Large_Language_Models_For_Low_Resource_Languages/blob/main/Large_Language_Models_For_Low_Resource_Languages.ipynb
 
 ## **ACKNOWLEDGEMENTS** 🙏
 1. Andrej Karpathy - Chief Scientist at OpenAI and a leading figure in the field of deep learning and computer vision.
