@@ -14,25 +14,25 @@ Additionally, we've explored and adapted various scales of pre-trained models, i
 Each of these models offers a different level of complexity and learning capacity, allowing us to experiment and find the most effective approach for the Amharic language. This range of models helps in understanding the scalability and adaptability of our approach to the unique challenges presented by Amharic text generation.
 
 ## **TABLE OF CONTENTS** 📑
-* Getting Started
+* **Getting Started**
    * Prerequisites
    * Tools and Libraries
    * Installation
    * Dataset
-* Project Pipeline
+* **Project Pipeline**
    * Data Preprocessing
    * Model Development
    * Training
    * Evaluation and Testing
    * Text Generation
-* Future Work
+* **Future Work**
    *  In-depth Research
    *  Exploring Other Datasets
    *  Cross-lingual NLP
    *  Hyper-parameter Tuning and Pre-trained Models
    *  Reviewing Performance Enhancement Techniques
-* Contact
-* Acknowledgements
+* **Contact**
+* **Acknowledgements**
 
 ## **GETTING STARTED** 🚀 
 ### 🔧 **Prerequisites** 
@@ -105,13 +105,11 @@ This project aims to enhance the accuracy of Amharic text generation, and there 
 
 
 ## **CONTACT** 📧
-Linkedin: 
+**Bezawit Abebaw**: https://www.linkedin.com/in/bezawit-tekeba/
 
-https://www.linkedin.com/in/bezawit-tekeba/
+**Biruk Abere**: https://www.linkedin.com/in/biruk-abere-ambaw-479aba215/
 
-https://www.linkedin.com/in/biruk-abere-ambaw-479aba215/
-
-Project Link: 
+### 📂 **Project Link** 
 
 https://github.com/quinbez/Large_Language_Models_For_Low_Resource_Languages
 
